@@ -1,2 +1,2 @@
 # Notes
-Miscellaneous notes and reports
+Miscellaneous notes and reports, stored for reference
